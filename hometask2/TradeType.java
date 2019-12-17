@@ -1,9 +1,9 @@
-package hw_2;
+package hometask2;
 
-import hw_2.trades.Bond;
-import hw_2.trades.CommoditySpot;
-import hw_2.trades.FxSpot;
-import hw_2.trades.IrSwap;
+import hometask2.trades.Bond;
+import hometask2.trades.CommoditySpot;
+import hometask2.trades.FxSpot;
+import hometask2.trades.IrSwap;
 
 public enum TradeType {
     FX_SPOT{
