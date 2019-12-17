@@ -1,0 +1,4 @@
+Trade: {
+type=IR_SWAP
+price=123.123
+}

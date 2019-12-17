@@ -1,0 +1,4 @@
+Trade: {
+type=BOND
+price=2.23
+}
