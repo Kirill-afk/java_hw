@@ -1,4 +1,4 @@
-package hw_4;
+package hometask4;
 import java.util.Map;
 
 public interface CountMap<Key> {
