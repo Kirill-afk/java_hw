@@ -1,9 +1,9 @@
-package hw_2;
+package hometask2;
 
-import hw_2.trades.Bond;
-import hw_2.trades.CommoditySpot;
-import hw_2.trades.FxSpot;
-import hw_2.trades.IrSwap;
+import hometask2.trades.Bond;
+import hometask2.trades.CommoditySpot;
+import hometask2.trades.FxSpot;
+import hometask2.trades.IrSwap;
 
 import java.io.*;
 
@@ -16,7 +16,7 @@ public class Main {
         String path;
 
         if (testFlag) {
-            path = "D:\\java_hw\\src\\hometask2\\trades\\bugger.txt";
+            path = "D:\\java_hw\\src\\hometask2\\trades\\BOND.txt";
         } else {
             if (args.length == 0) {
                 System.err.println("No input file");
