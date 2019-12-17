@@ -1,4 +1,4 @@
-package hw_3;
+package hometask3;
 
 import java.util.Arrays;
 import java.util.HashSet;
