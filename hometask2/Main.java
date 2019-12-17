@@ -16,7 +16,7 @@ public class Main {
         String path;
 
         if (testFlag) {
-            path = "D:\\java_hw\\src\\hw_2\\trades\\BOND.txt";
+            path = "D:\\java_hw\\src\\hometask2\\trades\\bugger.txt";
         } else {
             if (args.length == 0) {
                 System.err.println("No input file");
