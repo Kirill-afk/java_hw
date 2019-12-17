@@ -1,6 +1,6 @@
 package hometask4;
 
-import hw_3.OpenHashMap;
+import hometask3.OpenHashMap;
 
 import java.util.HashMap;
 import java.util.Map;
