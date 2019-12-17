@@ -1,4 +1,4 @@
-package hw_2;
+package hometask2;
 
 public class Trade {
     final private double price;
