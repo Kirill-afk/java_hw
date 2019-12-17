@@ -1,4 +1,4 @@
-package hw_4;
+package hometask4;
 
 import hw_3.OpenHashMap;
 
